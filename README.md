@@ -17,9 +17,9 @@
 2. wqere
 3. qeq
 4. tq
------------------------------
-____________________________________________________
-********
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
+
 ## Проекты
 Проект 1: Калькулятор юнит-экономики онлайн-школы
 
