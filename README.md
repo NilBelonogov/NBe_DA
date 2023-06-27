@@ -19,12 +19,8 @@
 4. tq
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
-1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
-
-3. Close the file
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 
 ## Проекты
