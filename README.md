@@ -10,9 +10,9 @@
 
 # Портфолио: аналитик данных
 
-## Привет! :wave:
 ## Обо мне
-Привет! Меня зовут Нил, я начинающий аналитик данных :man_student:
+**Привет! :wave:**   
+Меня зовут Нил, я начинающий аналитик данных :man_student:
 
 Люблю числа, неочевидные выводы и красивые картинки, т.е. комбинаторику, теория вероятностей и соответствующую визуализацию
 
@@ -29,6 +29,16 @@
 > - Средства визуализации данных: PowerBi
 > - Agile, спринты: Trello, Mira, Notion, Revizto, MSProject
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+## Статистика
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NilBelonogov&theme=swift&hide_border=true&border_radius=5&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Проекты
 Проект 1: Калькулятор юнит-экономики онлайн-школы
