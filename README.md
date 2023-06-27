@@ -5,7 +5,7 @@
 [![Vkontakte](https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white)](https://vk.com/id4954282)
 
 <div id="badges">
-<img src="https://komarev.com/ghpvc/?username=NilBelonogov&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=NilBelonogov&style=for-the-badge=red" alt=""/>
 </div>
 
 # Портфолио: аналитик данных
