@@ -7,7 +7,7 @@
 
 ## Привет! :wave:
 ## Обо мне
-Привет! Меня зовут Нил, я начинающий `аналитик данных` :man_student:
+Привет! Меня зовут Нил, я начинающий аналитик данных :man_student:
 
 Занимался наукой, в частности, численными методами моделирования процессов гидродинамики и тепломассообмена (StarCD, Fluent, FDS, SolidWorks, Ansys)
 
@@ -98,5 +98,5 @@
 Итог №2
 
 # Контактная информация
-Email: nilbelonogov@gmail.com  
+Email: <nilbelonogov@gmail.com>  
 LinkedIn: https://www.linkedin.com/in/nil-belonogov-5b48ab80/
