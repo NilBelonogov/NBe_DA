@@ -3,6 +3,11 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nil-belonogov-5b48ab80/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:nilbelonogov@gmail.com)
 [![Vkontakte](https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white)](https://vk.com/id4954282)
+
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=NilBelonogov&style=flat-square&color=blue" alt=""/>
+</div>
+
 # Портфолио: аналитик данных
 
 ## Привет! :wave:
@@ -11,15 +16,11 @@
 
 Люблю числа, неочевидные выводы и красивые картинки, т.е. комбинаторику, теория вероятностей и соответствующую визуализацию
 
-[![fluid]](https://media.giphy.com/media/XDQirT0IR9jrbzQ5Zk/giphy.gif)
-
-<img src="https://media.giphy.com/media/XDQirT0IR9jrbzQ5Zk/giphy.gif">
-
 Занимался наукой, в частности, численными методами моделирования процессов гидродинамики и тепломассообмена (StarCD, Fluent, FDS, SolidWorks, Ansys)
 
 Более 15 лет работал в сфере проектирования и строительства инженерных систем от инженера-проектировщика до руководителя проектной компании :atom:  
 
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+**В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики**
 
 ## Навыки и технологии
 > - Инструменты анализа данных: SQL, Excel
