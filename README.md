@@ -89,4 +89,4 @@
 Итог №2
 Контактная информация
 Email: nilbelonogov@gmail.com
-LinkedIn: https://www.linkedin.com/in/username/
+LinkedIn: https://www.linkedin.com/in/nil-belonogov-5b48ab80/
