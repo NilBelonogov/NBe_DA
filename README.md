@@ -10,7 +10,10 @@
 Привет! Меня зовут Нил, я начинающий аналитик данных :man_student:
 
 Люблю числа, неочевидные выводы и красивые картинки, т.е. комбинаторику, теория вероятностей и соответствующую визуализацию
-![fluid](https://media.giphy.com/media/XDQirT0IR9jrbzQ5Zk/giphy.gif)
+
+[![fluid]](https://media.giphy.com/media/XDQirT0IR9jrbzQ5Zk/giphy.gif)
+
+<img src="https://media.giphy.com/media/XDQirT0IR9jrbzQ5Zk/giphy.gif">
 
 Занимался наукой, в частности, численными методами моделирования процессов гидродинамики и тепломассообмена (StarCD, Fluent, FDS, SolidWorks, Ansys)
 
