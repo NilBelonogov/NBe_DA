@@ -19,6 +19,13 @@
 4. tq
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3. Close the file
+
 
 ## Проекты
 Проект 1: Калькулятор юнит-экономики онлайн-школы
