@@ -27,7 +27,7 @@
 > - Языки программирования и библиотеки: Python, MatLab
 > - Системы управления базами данных: PostgreSQL
 > - Средства визуализации данных: PowerBi
-> - Agile, спринты: Trello, Mira, Notion, Revizto, BIM 360, MSProject
+> - Agile, спринты: Trello, Miro, Notion, Revizto, BIM 360, MSProject
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
