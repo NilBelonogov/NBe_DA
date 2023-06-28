@@ -27,7 +27,7 @@
 > - Языки программирования и библиотеки: Python, MatLab
 > - Системы управления базами данных: PostgreSQL
 > - Средства визуализации данных: PowerBi
-> - Agile, спринты: Trello, Mira, Notion, Revizto, MSProject
+> - Agile, спринты: Trello, Mira, Notion, Revizto, BIM 360, MSProject
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
@@ -41,22 +41,18 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NilBelonogov&theme=swift&hide_border=true&border_radius=5&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Проекты
-Проект 1: Калькулятор юнит-экономики онлайн-школы
+### Проект 1: Калькулятор юнит-экономики онлайн-школы
+![School](https://drive.google.com/file/d/11NlhqdFy7DHF2Un8eiT_blIoAeF-xcdV/view?usp=sharing)
 
-Что нужно было сделать:
+> - Получение, очистка и нормализация данных
+> - Вычисление бизнес-метрик и показателей: Retention, CAC, LT, LTR, LTV, Fixed/running costs, маржинальность
+> - Построение калькулятора юнит-экономики
+> - Расчет возможных сценариев с таргетированной маржинальностью и переменными Retention, планами маркетинга, пропускной способностью
+> - Оптимизация загрузки ресурсов методом обобщенного приведенного градиента
 
-Задача №1
-Задача №2.
-Как решала(-а): краткое описание решения (автореферат)
+[OnlineScoolCalc](https://docs.google.com/spreadsheets/d/1k9I0983J5O5pyZKUkAsowSoci2t6R5kR/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
-Ссылка на проект (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-
-Выводы (итоги):
-
-Итог №1
-Итог №2
-
-Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра
+### Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра
 
 Что нужно было сделать:
 
