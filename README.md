@@ -42,7 +42,7 @@
 
 ## Проекты
 ### Проект 1: Калькулятор юнит-экономики онлайн-школы
-![School](https://drive.google.com/file/d/11NlhqdFy7DHF2Un8eiT_blIoAeF-xcdV/view?usp=sharing)
+![School](NilBelonogov-patch-1)
 
 > - Получение, очистка и нормализация данных
 > - Вычисление бизнес-метрик и показателей: Retention, CAC, LT, LTR, LTV, Fixed/running costs, маржинальность
