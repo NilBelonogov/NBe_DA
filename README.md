@@ -81,11 +81,26 @@
 [Ссылка на презентацию](https://docs.google.com/presentation/d/1rJpPx6qdmhu_GyOfnjvamyQCj0hNOzQR/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
 ### Проект 3: Моделирование изменения балансов студентов
-![Students](https://github.com/NilBelonogov/NBe_DA/blob/main/OnlineCinema.gif)
+![Students](https://github.com/NilBelonogov/NBe_DA/blob/main/Student_balance.jpg)
+
 **Задание** 
 Смоделировать изменение баланса уроков студентов
 
+**Подход**  
+* Поиск первой транзакции
+* Фильтрация всех дат с момента перво транзакции
+* Поиск изменений балансов, связанных с успешными транзакциями
+* Подсчет кумулятивных сумм транзакций и пройденных уроков
 
+Использованы подзапросы, CTE, оконные функции, объединение таблиц, фильтрация данных
+
+**Результаты**  
+Проведенный анализ позволил определить:
+- Закономерности в оплате и прохождении занятий
+- Группу учеников с критическими задолженностями
+- Динамику развития бизнеса и проблемные области
+
+[Ссылка на результат](https://docs.google.com/spreadsheets/d/17qpFV1bl_O8ZAAoAWj9a3Y-EWSeojbmx/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
 # Контактная информация
 Email: <nilbelonogov@gmail.com>  
