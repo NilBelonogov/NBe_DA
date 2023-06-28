@@ -42,31 +42,30 @@
 
 ## Проекты
 ### Проект 1: Калькулятор юнит-экономики онлайн-школы
-![School](NilBelonogov-patch-1)
+![School](https://private-user-images.githubusercontent.com/137898661/249537216-7855e007-05b1-483b-8e46-a1570bb7e285.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg3OTY3NTEwLCJuYmYiOjE2ODc5NjcyMTAsInBhdGgiOiIvMTM3ODk4NjYxLzI0OTUzNzIxNi03ODU1ZTAwNy0wNWIxLTQ4M2ItOGU0Ni1hMTU3MGJiN2UyODUuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDYyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA2MjhUMTU0NjUwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDI4YmUyZWI1MjU0YThmYTFiN2I0NGQ4ZjYzMTljM2RjODBjMTNlZWU4YTMzNTQ0MzFjZWUwNDZjZDgxMTU3MiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.nlW11twAOdaRjLEaIaB2Bi87CuUNupiVfJWAKUhWXek)
 
+**Задание**
 > - Получение, очистка и нормализация данных
 > - Вычисление бизнес-метрик и показателей: Retention, CAC, LT, LTR, LTV, Fixed/running costs, маржинальность
 > - Построение калькулятора юнит-экономики
 > - Расчет возможных сценариев с таргетированной маржинальностью и переменными Retention, планами маркетинга, пропускной способностью
 > - Оптимизация загрузки ресурсов методом обобщенного приведенного градиента
 
+**Подход**  
+Использованы сводные таблицы, встроенные инструменты визуализации и пакет анализа Excel  
+
 [OnlineScoolCalc](https://docs.google.com/spreadsheets/d/1k9I0983J5O5pyZKUkAsowSoci2t6R5kR/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
 ### Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра
+![Cinema]()
 
-Что нужно было сделать:
-
-Задача №1
-Задача №2.
-Как решала(-а): краткое описание решения (автореферат)
-
-Ссылка на проект (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-
-Выводы (итоги):
-
-Итог №1
-Итог №2
-
+**Задание**  
+Оценка финансовой эффективности онлайн-кинотеатра:
+>- Анализ клиентской базы и контента
+>- Расчет бизнес-метрик и построение калькулятора юнит-экономики
+>- Предложение сценария по настройке параметров для выхода на 25-процентную маржинальность
+>- Визуализация результатов
+  
 
 Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL
 
