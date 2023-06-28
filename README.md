@@ -56,6 +56,7 @@
 
 [Ссылка на калькулятор](https://docs.google.com/spreadsheets/d/1k9I0983J5O5pyZKUkAsowSoci2t6R5kR/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
+****
 ### Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра
 ![Cinema](https://github.com/NilBelonogov/NBe_DA/blob/main/OnlineCinema.gif)
 
@@ -80,6 +81,7 @@
 [Ссылка на калькулятор](https://docs.google.com/spreadsheets/d/1M9pEui8zNBK-RekIAh95ADvKNyasuZdj/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)  
 [Ссылка на презентацию](https://docs.google.com/presentation/d/1rJpPx6qdmhu_GyOfnjvamyQCj0hNOzQR/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
+***
 ### Проект 3: Моделирование изменения балансов студентов
 ![Students](https://github.com/NilBelonogov/NBe_DA/blob/main/Student_balance.jpg)
 
@@ -88,7 +90,7 @@
 
 **Подход**  
 * Поиск первой транзакции
-* Фильтрация всех дат с момента перво транзакции
+* Фильтрация всех дат с момента первой транзакции
 * Поиск изменений балансов, связанных с успешными транзакциями
 * Подсчет кумулятивных сумм транзакций и пройденных уроков
 
