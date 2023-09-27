@@ -105,7 +105,7 @@
 [Ссылка на результат](https://docs.google.com/spreadsheets/d/17qpFV1bl_O8ZAAoAWj9a3Y-EWSeojbmx/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
 ### Проект 4: A/B тест эффективности информирования клиентов, тест системы сплитования
-![Students](https://github.com/NilBelonogov/NBe_DA/blob/main/Student_balance.jpg)
+!(https://github.com/NilBelonogov/NBe_DA/blob/main/t-test1.jpg)
 
 **Задание** 
 Анализ результатов А/В теста
