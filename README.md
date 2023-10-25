@@ -129,7 +129,9 @@
 
 
 ### Проект 5: Анализ и визуализация результатов АБ теста, проведенного в торговых точках в ряде городов, сегментация и рекомендации для дальнейших запусков АБ Теста.
-https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_02-dipl_NBe3%20-%20Jupyter%20Notebook.jpg
+
+![[https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_02-dipl_NBe3%20-%20Jupyter%20Notebook.jpg]](https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_02-dipl_NBe3%20-%20Jupyter%20Notebook.jpg)
+![[https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_46-dipl_NBe3%20-%20Jupyter%20Notebook.jpg]](https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_46-dipl_NBe3%20-%20Jupyter%20Notebook.jpg)
 
 **Задание** 
 Исследование альтернативного метода воздействия на клиентские покупки, формирование таблицы с результатами АБ Теста, построение калькулятора
@@ -139,7 +141,7 @@ https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_02-dipl_NBe3
 * Агрегирование и объединение таблиц
 * Сегментирование 
 * Прогон конверсий и средних сумм по Стьюденту, Манн-Уитни, поиск статистически значимых отклонений, определение мощности эксперимента
-* Формирование калькулятора, расчет дополнительных наблюдений, как ф-ции MDE
+* Формирование калькулятора, расчет дополнительных наблюдений как ф-ции MDE
 
 Использованы библиотеки pandas, numpy, statsmodels, scipy, statistics
 
