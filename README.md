@@ -130,6 +130,7 @@
 
 ### Проект 5: Анализ и визуализация результатов АБ теста, проведенного в торговых точках в ряде городов, сегментация и рекомендации для дальнейших запусков АБ Теста.
 
+![[https://github.com/NilBelonogov/NBe_DA/blob/main/mistakes.jpg]](https://github.com/NilBelonogov/NBe_DA/blob/main/mistakes.jpg)
 ![[https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_02-dipl_NBe3%20-%20Jupyter%20Notebook.jpg]](https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_02-dipl_NBe3%20-%20Jupyter%20Notebook.jpg)
 ![[https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_46-dipl_NBe3%20-%20Jupyter%20Notebook.jpg]](https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_46-dipl_NBe3%20-%20Jupyter%20Notebook.jpg)
 
