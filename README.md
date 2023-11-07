@@ -148,6 +148,48 @@
 
 Визуализация matplotlib, seaborn, Excel
 
+for city in df_clients_merged_city_clean['city'].unique():
+    print(city, ":")
+    print("")
+    r0 = d0[d0['city'] == city]['amt_payment'].values
+    r1 = d1[d1['city'] == city]['amt_payment'].values
+    
+    rr0 = d0[d0['city'] == city]['flag'].values
+    rr1 = d1[d1['city'] == city]['flag'].values
+    
+    metrics=df_clients_merged_city_clean[df_clients_merged_city_clean['city']==city].groupby('nflag_test').agg({'id_client': 'count', 'flag': 'sum','amt_payment': 'mean'}).reset_index()
+    metrics['conversion']=round((metrics['flag']/metrics['id_client'])*100,1)
+    conversion_control = metrics['conversion'].values[0]/100 
+    conversion_test = metrics['conversion'].values[1]/100
+    conversion_ratio = conversion_test/conversion_control
+    nobs = min(metrics['id_client'])
+    power = chipower.solve_power(effect_size = chi2_effect_size(conversion_control, conversion_test),nobs = nobs, alpha = 0.05, power=None)
+    
+    conv.append(round((conversion_ratio-1)*100,1))
+    
+    if power<0.8:
+        print ("Внимание! Низкая мощность эксперимента!")
+        print("Мощность эксперимента",power)
+        print("")
+        Unreliable.append(city)
+    else:
+        print("Мощность эксперимента",power)
+        Reliable.append(city)
+    
+    print("Средний чек - контрольная",round(r0.mean(),1))
+    print("Средний чек - тестовая",round(r1.mean(),1))
+    print("Рост конверсии, %",round((conversion_ratio-1)*100,1))
+    print("")
+    print("Стьюдент-чек",test_calc(r0, r1, alpha=.05))
+    print("")
+    print("Стьюдент-конверсия",test_calc(rr0, rr1, alpha=.05))
+    print("")
+    print("Манн-Уитни-чек", mann_whitney_func(r0, r1, alpha=.05))
+    print("")
+    print("Манн-Уитни-конверсия", mann_whitney_func(rr0, rr1, alpha=.05))
+    print("")
+    print("")
+
 **Результаты**  
 Проведенный анализ позволил определить:
 - Аномалии в данных (отсутствующие, нулевые, фантомные значения, проблемные города и торговые точки)
