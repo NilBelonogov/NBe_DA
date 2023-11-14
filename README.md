@@ -42,7 +42,7 @@
 
 ## Проекты
 ### Проект 1: Калькулятор СЗ ритейла
-
+![https://github.com/NilBelonogov/NBe_DA/blob/main/dashboard.jpg](https://github.com/NilBelonogov/NBe_DA/blob/main/dashboard.jpg)
 
 ### Проект 2: Калькулятор юнит-экономики онлайн-школы
 ![School](https://user-images.githubusercontent.com/137898661/253531729-d6c26398-97a7-4dbd-8cbf-8a406e2744f5.jpg)
