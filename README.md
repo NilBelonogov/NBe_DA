@@ -41,7 +41,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NilBelonogov&theme=swift&hide_border=true&border_radius=5&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Проекты
-### Проект 1: Калькулятор юнит-экономики онлайн-школы
+### Проект 1: Калькулятор СЗ ритейла
+
+
+### Проект 2: Калькулятор юнит-экономики онлайн-школы
 ![School](https://user-images.githubusercontent.com/137898661/253531729-d6c26398-97a7-4dbd-8cbf-8a406e2744f5.jpg)
 
 **Задание**
@@ -57,7 +60,7 @@
 [Ссылка на калькулятор](https://docs.google.com/spreadsheets/d/1k9I0983J5O5pyZKUkAsowSoci2t6R5kR/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
 ****
-### Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра
+### Проект 3: Калькулятор юнит-экономики онлайн-кинотеатра
 ![Cinema](https://github.com/NilBelonogov/NBe_DA/blob/main/OnlineCinema.gif)
 
 **Задание**  
@@ -82,7 +85,7 @@
 [Ссылка на презентацию](https://docs.google.com/presentation/d/1rJpPx6qdmhu_GyOfnjvamyQCj0hNOzQR/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
 ***
-### Проект 3: Моделирование изменения балансов студентов
+### Проект 4: Моделирование изменения балансов студентов
 ![Students](https://github.com/NilBelonogov/NBe_DA/blob/main/Student_balance.jpg)
 
 **Задание** 
@@ -104,7 +107,7 @@
 
 [Ссылка на результат](https://docs.google.com/spreadsheets/d/17qpFV1bl_O8ZAAoAWj9a3Y-EWSeojbmx/edit?usp=sharing&ouid=109360586968919572071&rtpof=true&sd=true)
 
-### Проект 4: A/B тест эффективности информирования клиентов, тест системы сплитования
+### Проект 5: A/B тест эффективности информирования клиентов, тест системы сплитования
 ![[(https://github.com/NilBelonogov/NBe_DA/blob/main/t-test1.jpg)]](https://github.com/NilBelonogov/NBe_DA/blob/main/t-test1.jpg)
 
 **Задание** 
@@ -128,7 +131,7 @@
 - Эффективность нововведений
 
 
-### Проект 5: Анализ и визуализация результатов АБ теста, проведенного в торговых точках в ряде городов, сегментация и рекомендации для дальнейших запусков АБ Теста.
+### Проект 6: Анализ и визуализация результатов АБ теста, проведенного в торговых точках в ряде городов, сегментация и рекомендации для дальнейших запусков АБ Теста.
 
 ![[https://github.com/NilBelonogov/NBe_DA/blob/main/mistakes.jpg]](https://github.com/NilBelonogov/NBe_DA/blob/main/mistakes.jpg)
 ![[https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_02-dipl_NBe3%20-%20Jupyter%20Notebook.jpg]](https://github.com/NilBelonogov/NBe_DA/blob/main/2023-10-25%2014_22_02-dipl_NBe3%20-%20Jupyter%20Notebook.jpg)
